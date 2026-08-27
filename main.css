@@ -16,3 +16,13 @@ p {
     font-size: 14px;
     font-family: Arial;
 }
+header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+header img {
+    width: 180px;
+    height: auto;
+}
