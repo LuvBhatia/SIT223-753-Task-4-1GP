@@ -16,3 +16,30 @@ p {
     font-size: 14px;
     font-family: Arial;
 }
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-family: Arial;
+}
+
+tr:nth-child(odd) {
+    background-color: #f2f2f2;
+}
+
+/* Table styling */
+table {
+    border-collapse: collapse;
+    width: 750px;
+    max-width: 100%;
+    font-size: 18px;
+}
+
+th {
+    font-weight: bold;
+}
+
+td {
+    background-color: white;
+}
