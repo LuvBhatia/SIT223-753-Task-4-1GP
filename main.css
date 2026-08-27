@@ -42,4 +42,13 @@ th {
 
 td {
     background-color: white;
+header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+header img {
+    width: 180px;
+    height: auto;
 }
